@@ -1,0 +1,17 @@
+#grid{
+    height: 300px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h3 {
+    font-family: cursive;
+    font-size: 26px;
+}
